@@ -52,7 +52,7 @@ A powerful **Stock Analysis & Forecasting Web App** built with **Streamlit**, fe
 
 ## Demo
 
-**Live Link** - ""
+**Live Link** - "https://stock-price-forecasting-by-rk.streamlit.app/"
 
 ## How to Run Locally
 
